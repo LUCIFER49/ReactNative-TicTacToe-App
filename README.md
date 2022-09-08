@@ -1,3 +1,3 @@
-# Personal ReactNative TicTacToe Project
+# TicTacToe App Project
 
-## Practise React Native App
+## Practising React Native 
